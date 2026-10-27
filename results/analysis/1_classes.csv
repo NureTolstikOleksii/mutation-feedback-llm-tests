@@ -1,0 +1,3 @@
+﻿condition;total;detects;locks;neutral;broken;locks_%
+plain;458;49;155;186;68;33.8
+mutation;462;57;134;201;70;29.0

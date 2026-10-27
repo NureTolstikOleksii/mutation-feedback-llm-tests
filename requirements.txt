@@ -1,0 +1,4 @@
+datasets>=2.18
+huggingface_hub>=0.20
+pytest>=7.0
+matplotlib>=3.7

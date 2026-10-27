@@ -1,0 +1,7 @@
+﻿bug_type;plain_rounds_1_2;mutation_rounds_1_2;plain_all_rounds;mutation_all_rounds
+excess logic;16;12;33;25
+function misuse;12;12;26;24
+missing logic;15;10;21;15
+operator misuse;23;19;43;38
+value misuse;6;10;14;16
+variable misuse;13;12;18;16
